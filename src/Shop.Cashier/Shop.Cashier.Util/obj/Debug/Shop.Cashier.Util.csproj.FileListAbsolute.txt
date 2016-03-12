@@ -1,0 +1,12 @@
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Util\bin\Debug\Shop.Cashier.Util.dll
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Util\bin\Debug\Shop.Cashier.Util.pdb
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Util\obj\Debug\Shop.Cashier.Util.csprojResolveAssemblyReference.cache
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Util\obj\Debug\Shop.Cashier.Util.dll
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Util\obj\Debug\Shop.Cashier.Util.pdb
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Util\bin\Debug\Shop.Cashier.Util.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Util\bin\Debug\Shop.Cashier.Util.pdb
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Util\bin\Debug\Newtonsoft.Json.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Util\bin\Debug\Newtonsoft.Json.xml
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Util\obj\Debug\Shop.Cashier.Util.csprojResolveAssemblyReference.cache
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Util\obj\Debug\Shop.Cashier.Util.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Util\obj\Debug\Shop.Cashier.Util.pdb

@@ -1,0 +1,15 @@
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.ApplicationServiceTests.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.ApplicationServiceTests.pdb
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.ApplicationService.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.Core.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.Query.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.Util.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Newtonsoft.Json.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.ApplicationService.pdb
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.Core.pdb
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.Query.pdb
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Shop.Cashier.Util.pdb
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\bin\Debug\Newtonsoft.Json.xml
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\obj\Debug\Shop.Cashier.ApplicationServiceTests.csprojResolveAssemblyReference.cache
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\obj\Debug\Shop.Cashier.ApplicationServiceTests.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.ApplicationServiceTests\obj\Debug\Shop.Cashier.ApplicationServiceTests.pdb

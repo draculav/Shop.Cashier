@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner" dslVersion="1.0.0.0" Id="7c91fbf3-2934-45ae-b344-bcead5b14031" name="Aggregation" linkedPackageId="0347b44c-7e6d-4d54-91b8-4bc70ba42ec4" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="f02ab6fa-1e08-430a-8543-8810e434c6d8" name="Order" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="4e320cae-b898-401d-8aa5-bf282e781f63" />
+        <ownedAttributesInternal>
+          <property Id="742e0054-8e93-426e-8118-9a4e519c6d26" name="State" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>1:WaitReceipt
+2.Receipted
+3.Canceled</description>
+            <elementDefinition Id="e6b10f5d-cd9d-4634-8fab-c2ee96bbd798" />
+            <defaultValue>
+              <literalString Id="e1196fe8-081c-47b1-8867-4e56d5f21621" name="DefaultValue" value="1">
+                <elementDefinition Id="8900a49c-b04b-4578-a73d-70247ab6ab2e" />
+              </literalString>
+            </defaultValue>
+          </property>
+          <property Id="84413c7c-54af-4d5f-b78b-dff0168d6a27" name="GoodsList" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <lowerValueInternal>
+              <literalString Id="6c3e86d3-3053-4024-a080-aa2fa44e555a" name="Lower" value="*">
+                <elementDefinition Id="91161943-9925-4be4-82d2-b289c0c71184" />
+              </literalString>
+            </lowerValueInternal>
+            <upperValueInternal>
+              <literalString Id="03eaab5c-1c1f-4cda-85a4-8af319be82a0" name="Upper" value="*">
+                <elementDefinition Id="b34f496f-72fe-430d-b453-d3f4a09d0fb2" />
+              </literalString>
+            </upperValueInternal>
+            <elementDefinition Id="4693c5e0-203b-42e0-a038-7954db63963d" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="89e19002-7a88-481f-ac7a-8b282185c091" LastKnownName="Goods" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="6e097427-a58f-4cf3-86b2-984cf186c2da" name="Goods" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="ba9b24f6-de8b-4ab6-8be8-37e61c982148" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="89e19002-7a88-481f-ac7a-8b282185c091" name="Goods" isAbstract="false" isLeaf="false" cachedFullName="Prototype::Goods">
+        <elementDefinition Id="ba9b24f6-de8b-4ab6-8be8-37e61c982148" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="ed9f51f3-8635-4491-a0ee-42b04dc6749e" name="DiscountCondition" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="acc66273-333f-4c5e-ba83-d5cfe20d969f" />
+        <ownedAttributesInternal>
+          <property Id="d7a6e316-7661-4705-a1b3-b78046705f10" name="Id" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="93ca707c-c323-4cb4-8e87-0320bacf453e" />
+          </property>
+          <property Id="08ceb116-4f71-4df2-b508-94f523446038" name="Desc" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="b5c80e69-ec19-490c-90ca-744084cd6be7" />
+          </property>
+          <property Id="edded851-0b22-4b7b-8b00-9ed3fa62a72d" name="Condition" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="040ac654-1b02-4450-b17f-f4eb7c7798ce" />
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="bd104f45-2614-4823-9f12-f6811e657d17" name="GoodsDiscount" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="c37c7f9c-6d7a-414e-bf3c-50e376e1acf4" />
+        <ownedAttributesInternal>
+          <property Id="a4245dd7-e8a0-46a8-b316-a00752cb7981" name="GoodsId" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="1cd14ac8-b4bf-4f04-bfe2-5c4e983eb166" />
+          </property>
+          <property Id="6c9d3860-fd7d-4b1b-8ef0-7bdd2c41aca9" name="ConditionId" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="5bf4d6cc-dd5d-4b8c-b23a-e0ec098b857e" />
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="0347b44c-7e6d-4d54-91b8-4bc70ba42ec4" name="Prototype">
+    <elementDefinition Id="feb11da7-0aad-4697-bf7e-2404a1cb0841" />
+    <profileInstances>
+      <packageHasProfileInstances Id="30ecf8ed-83db-49ea-90c3-86df18d0365d">
+        <profileInstance Id="ff1b5269-58db-41fd-a8f2-4e294b2e777c" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="4ffed064-646a-49e7-922d-a69538c5358c">
+        <profileInstance Id="3ca63976-17ee-4954-a6d0-0b850cbfaa86" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</logicalClassDesignerModel>

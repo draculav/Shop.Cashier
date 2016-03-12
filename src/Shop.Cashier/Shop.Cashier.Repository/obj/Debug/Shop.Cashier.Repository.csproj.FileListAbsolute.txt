@@ -1,0 +1,10 @@
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Repository\bin\Debug\Shop.Cashier.Repository.dll
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Repository\bin\Debug\Shop.Cashier.Repository.pdb
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Repository\obj\Debug\Shop.Cashier.Repository.csprojResolveAssemblyReference.cache
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Repository\obj\Debug\Shop.Cashier.Repository.dll
+D:\Projects\Shop.Cashier.Core\Shop.Cashier.Repository\obj\Debug\Shop.Cashier.Repository.pdb
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Repository\bin\Debug\Shop.Cashier.Repository.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Repository\bin\Debug\Shop.Cashier.Repository.pdb
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Repository\obj\Debug\Shop.Cashier.Repository.csprojResolveAssemblyReference.cache
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Repository\obj\Debug\Shop.Cashier.Repository.dll
+E:\Code\Shop.Cashier.Core\Shop.Cashier.Repository\obj\Debug\Shop.Cashier.Repository.pdb
