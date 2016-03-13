@@ -1,5 +1,6 @@
 ﻿using Shop.Cashier.Core;
 using Shop.Cashier.Util;
+using StructureMap;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,22 @@ namespace Shop.Cashier.Core.Discount
         public static Goods CalculateDiscount(Goods goodsOne)
         {
             //改为注入
-            CalculateTwoGiveOne(goodsOne);
+           // CalculateTwoGiveOne(goodsOne);
+
+            var registry = new Registry();
+            registry.For<IDiscountCalculate>();
+            registry.Policies.Configure(ConfigurationParser.FromFile("StructureMap.config"));
+
+            var container = new Container(registry);
+
+            var instances = container.GetAllInstances<IDiscountCalculate>();
+
+            container.Initialize(x =>
+            {
+                x.PullConfigurationFromAppConfig = true;
+            });
+
+            var translator = ObjectFactory.GetInstance<IDiscountCalculate>();
 
             return goodsOne;
         }

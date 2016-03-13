@@ -18,3 +18,17 @@ E:\Code\Shop.Cashier.Core\Shop.Cashier.CoreTests\bin\Debug\Newtonsoft.Json.xml
 E:\Code\Shop.Cashier.Core\Shop.Cashier.CoreTests\obj\Debug\Shop.Cashier.CoreTests.csprojResolveAssemblyReference.cache
 E:\Code\Shop.Cashier.Core\Shop.Cashier.CoreTests\obj\Debug\Shop.Cashier.CoreTests.dll
 E:\Code\Shop.Cashier.Core\Shop.Cashier.CoreTests\obj\Debug\Shop.Cashier.CoreTests.pdb
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\Shop.Cashier.CoreTests.dll
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\Shop.Cashier.CoreTests.pdb
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\Shop.Cashier.Core.dll
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\Shop.Cashier.Util.dll
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\StructureMap.dll
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\Shop.Cashier.Core.pdb
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\Shop.Cashier.Util.pdb
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\StructureMap.pdb
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\StructureMap.xml
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\obj\Debug\Shop.Cashier.CoreTests.csprojResolveAssemblyReference.cache
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\obj\Debug\Shop.Cashier.CoreTests.dll
+E:\GitHub\Shop.Cashier\src\Shop.Cashier\Shop.Cashier.CoreTests\obj\Debug\Shop.Cashier.CoreTests.pdb
